@@ -6,3 +6,6 @@ Creating Pull Requsts (PRs) is needed when using RCS in a multi-person projects.
 
 # Summary
 Here is a practice for Pull Request
+
+#Fun
+hahaha
